@@ -3,10 +3,7 @@
   "displayName": "Fantasy helper",
   "version": "0.0.1",
   "description": "A Chrome extension to help and assist fantasy managers during the draft",
-  "author": {
-    "name": "Yakov Rakhamimov",
-    "email": "jacobra19@gmail.com"
-  },
+  "author": "Yakov Rakhamimov <jacobra19@gmail.com>",
   "scripts": {
     "dev": "plasmo dev",
     "build": "plasmo build",
@@ -20,6 +17,7 @@
     "type": "git",
     "url": "git+https://github.com/jacobra19/fantasy-draft-helper.git"
   },
+  "license": "MIT",
   "dependencies": {
     "plasmo": "0.89.2",
     "react": "18.2.0",
